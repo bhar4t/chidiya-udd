@@ -8,7 +8,7 @@ Please note that it will be a SERIOUS hackathon, and all of the subsequent ones 
 
 ### Hackathon Guidelines
 1. Use [this github repo](https://github.com/bhar4t/chidiya-udd.git) to fork and submit your app and add [@divich](https://github.com/divich/) and [@bhar4t](https://github.com/bhar4t/) as collaborators.
-2. You will get 100 images of animals.
+2. You will get 100+ images of animals.
 3. No image should be displayed for more than 2 seconds.
 4. No two images can have the same time duration of display.
 5. You can decide rounds and number of players by yourself.
