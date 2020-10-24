@@ -17,3 +17,6 @@ Please note that it will be a SERIOUS hackathon, and all of the subsequent ones 
 8. Rankings will be decided based on the design, game logic, UX.
 9. Deployment of your app is expected on firebase.
 10. A google sheet will be shared where you will enter the details of your app.
+
+
+Please update your project details [here](https://docs.google.com/spreadsheets/d/1m_a4Mw87F4T1Oh5WiT8TEr63tYXQtWcZCVuQKRNM8pk/edit?usp=sharing)
